@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ProjectPassDawidPuka</string>
+    <string name="studentIdCard">Student Id Card</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="fieldOfStudy">Field Of Study</string>
+    <string name="nationality">Nationality</string>
+    <string name="age">Age</string>
+    <string name="add">Data Manager</string>
+    <string name="statictics">Statictics</string>
+    <string name="delete">Delete</string>
+    <string name="none">none</string>
+    <string name="saveData">Save Data </string>
+    <string name="saveDataToDatabase">Save Data To Database</string>
+    <string name="save">Save Data</string>
+    <string name="goToAddStudentMarks">Go to add student marks</string>
+    <string name="math">Math</string>
+    <string name="history">History</string>
+    <string name="biology">Biology</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="avgMarks">AvgMarks</string>
+    <string name="search">Search</string>
+
+    <string name="biology5">Biology mark 5:</string>
+    <string name="biology4">Biology mark 4:</string>
+    <string name="biology3">Biology mark 3:</string>
+    <string name="biology2">Biology mark 2:</string>
+    <string name="biology1">Biology mark 1:</string>
+
+    <string name="history5">History mark 5:</string>
+    <string name="history4">History mark 4:</string>
+    <string name="history3">History mark 3:</string>
+    <string name="history2">History mark 2:</string>
+    <string name="history1">History mark 1:</string>
+
+    <string name="chemistry5">Chemistry mark 5:</string>
+    <string name="chemistry4">Chemistry mark 4:</string>
+    <string name="chemistry3">Chemistry mark 3:</string>
+    <string name="chemistry2">Chemistry mark 2:</string>
+    <string name="chemistry1">Chemistry mark 1:</string>
+
+    <string name="Math5">Math mark 5:</string>
+    <string name="Math4">Math mark 4:</string>
+    <string name="Math3">Math mark 3:</string>
+    <string name="Math2">Math mark 2:</string>
+    <string name="Math1">Math mark 1:</string>
+
+
+    <string name="hadSameMark">Students had same mark!</string>
+
+    <string name="showBiologyStats">Show Statistic Biology!</string>
+    <string name="showMathStats">Show Statistic Math!</string>
+    <string name="showChemistryStats">Show Statistic Chemistry!</string>
+    <string name="showHistoryStats">Show Statistic History!</string>
+
+
+</resources>
